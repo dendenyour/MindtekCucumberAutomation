@@ -8,7 +8,8 @@ public class Deniz {
         System.out.println(name);
         int age = 20;
         System.out.println(age);
-        double salary = 265000;
+        boolean hasCar = true;
+        String catName = "Tom";
 
 
     }
