@@ -6,6 +6,9 @@ public class Deniz {
 
         String name = "Deniz";
         System.out.println(name);
+        int age = 20;
+        System.out.println(age);
+        double salary = 265000;
 
 
     }
